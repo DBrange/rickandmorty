@@ -1,0 +1,19 @@
+.search{
+  width: 30%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.container{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 4px solid #fff;
+}
+
+.link{
+  text-decoration: none;
+  color: #fff;
+}
